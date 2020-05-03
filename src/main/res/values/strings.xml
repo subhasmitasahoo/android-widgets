@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Widgets</string>
+    <string name="TextView">Will you join us?</string>
+    <string name="RadioButtonYes">Yes</string>
+    <string name="RadioButtonNo">No</string>
+    <string name="RadioButtonMaybe">May be</string>
+    <string name="pain_level">What\'s your pain level in a scale of 1-10?</string>
+    <string name="hide_and_seek_text_view"><![CDATA[Hide & Seek]]></string>
+    <string name="alertTitle">Alert Title</string>
+    <string name="alertMessage">Are you sure?</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="text">text</string>
+    <string name="description">description</string>
+</resources>
